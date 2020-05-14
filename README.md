@@ -1,4 +1,4 @@
-# MyCamera
+
 Name
 ====
 
