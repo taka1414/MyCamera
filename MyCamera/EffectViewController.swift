@@ -15,7 +15,7 @@ class EffectViewController: UIViewController {
 
         // Do any additional setup after loading the view.
         
-        // 画面遷移時に元の画像を表示
+            // 画面遷移時に元の画像を表示
         effectImage.image = originalImage
     }
     
@@ -30,8 +30,8 @@ class EffectViewController: UIViewController {
     }
     */
 
-    // エフェクト前画像
-    // 前の画面より画像を設定
+        // エフェクト前画像
+        // 前の画面より画像を設定
     var originalImage : UIImage?
     
     
