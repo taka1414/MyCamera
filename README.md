@@ -1,11 +1,11 @@
 MyCamera
 ====
 
-Overview
 ヘアカラーを綺麗に撮る！！カメラアプリ！！
 
-## Description
-難しい設定は
+## 開発環境
+・swift
+・xcode
 ## Demo
 
 ## VS. 
