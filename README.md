@@ -1,11 +1,11 @@
-
-Name
+MyCamera
 ====
 
 Overview
+ヘアカラーを綺麗に撮る！！カメラアプリ！！
 
 ## Description
-
+難しい設定は
 ## Demo
 
 ## VS. 
